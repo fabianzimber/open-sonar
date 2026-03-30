@@ -36,4 +36,4 @@ We are currently in the early stages of mapping the future of voice. Whether you
 **Let’s build a world that listens.**
 
 ---
-*Open Sonar is an open-source project by [Your Name/Org]. Licensed under AGPL-3.0.*
+*Open Sonar is an open-source project by Fabian Zimber. Licensed under AGPL-3.0.*
